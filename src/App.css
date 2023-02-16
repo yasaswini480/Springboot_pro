@@ -1,0 +1,67 @@
+.App
+{
+  text-align: center;
+}
+.emp
+{
+  text-align: center;
+  font-size: 20px;
+  background-color: rgb(74, 198, 157);
+  padding: 10px;
+  color: white;
+}
+.foo
+{
+  position: absolute;
+  bottom: 0;
+  font-size: 20px;
+  left: 0;
+  right: 0;
+  margin-bottom: 10px;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color: mediumslateblue;
+}
+.list
+{
+  text-align: center;
+  padding: 20px;
+  color: white;
+  background-color: rgb(226, 70, 138);
+  justify-content: space-around;
+}
+th
+{
+  text-align: center;
+  padding: 20px;
+  color: white;
+  background-color: rgb(226, 70, 138);
+  justify-content: space-around;
+}
+.hea
+{
+  background-color: rgb(177, 228, 37);
+  color: white;
+}
+table {
+  border-spacing: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(229, 156, 39);
+  color: white;
+}
+.but
+{
+  cursor: pointer;
+  color: white;
+  background-color: rgb(165, 165, 232);
+  padding: 20px;
+  font-size: 15px;
+  border-radius: 8px;
+}
+.button
+{
+  margin-bottom: 12px;
+}
+
